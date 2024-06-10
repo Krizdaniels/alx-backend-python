@@ -7,7 +7,6 @@ seconds and eventually returns it.
 Use the random module.
 """
 
-
 import random
 import asyncio
 
